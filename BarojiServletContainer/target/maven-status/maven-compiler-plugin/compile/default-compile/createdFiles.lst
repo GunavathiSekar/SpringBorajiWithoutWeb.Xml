@@ -1,0 +1,9 @@
+com\spring\config\MyWebAppInitializer.class
+com\spring\controller\BookController.class
+com\spring\service\BookService.class
+com\spring\service\BookServiceImp.class
+com\spring\dao\BookDaoImp.class
+com\spring\model\Book.class
+com\spring\config\WebConfig.class
+com\spring\dao\BookDao.class
+com\spring\config\AppConfig.class
